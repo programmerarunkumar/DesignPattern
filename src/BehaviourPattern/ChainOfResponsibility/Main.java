@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args){
 
-        Currency currency = new Currency(1700);
+        Currency currency = new Currency(1750);
         if(currency.getAmount() > 0){
             AtmDispense atmDispense = getAtmDispenser();
             atmDispense.dispense(currency);
