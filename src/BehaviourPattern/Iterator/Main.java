@@ -1,5 +1,7 @@
 package BehaviourPattern.Iterator;
 
+//https://www.scaler.com/topics/design-patterns/iterator-design-pattern/
+
 public class Main {
 
     public static void main(String[] args){
