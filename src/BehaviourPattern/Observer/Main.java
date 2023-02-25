@@ -1,4 +1,4 @@
-package BehaviourPattern.ObserverPattern;
+package BehaviourPattern.Observer;
 
 //https://howtodoinjava.com/design-patterns/behavioral/observer-design-pattern/
 public class Main {
