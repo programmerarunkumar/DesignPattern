@@ -1,4 +1,4 @@
-package BehaviourPattern.ObserverPattern;
+package BehaviourPattern.Observer;
 
 public class SubscriberOne implements Subscriber{
 
