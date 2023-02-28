@@ -2,7 +2,6 @@ package BehaviourPattern.Command;
 
 //https://www.geeksforgeeks.org/command-pattern/
 
-
 public class Main {
 
     public static void main(String[] args){
